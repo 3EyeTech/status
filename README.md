@@ -1,0 +1,2 @@
+# status
+FreshService Status Page
